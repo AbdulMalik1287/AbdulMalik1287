@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=12,20,6&text=Abdul%20Malik&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Applied%20AI%20/%20ML%20engineer%20-%20I%20build%20systems%20that%20measure%20themselves&descAlignY=54&descSize=15&animation=fadeIn" width="100%" alt="Abdul Malik" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=12,20,6&text=Abdul%20Malik&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=I%20build%20systems%20that%20measure%20themselves&descAlignY=54&descSize=15&animation=fadeIn" width="100%" alt="Abdul Malik" />
 
 <a href="https://github.com/AbdulMalik1287">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=7C3AED&center=true&vCenter=true&width=700&lines=CSE+(AI+%26+ML)+%40+IIIT+Nagpur+%E2%80%A2+CGPA+9.55;AI+Intern+%40+FuMind.ai+-+building+GenMES;RAG%2C+LLM+evaluation%2C+computer+vision;If+I+claim+a+number%2C+I+measured+it" alt="typing" />
