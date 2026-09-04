@@ -108,8 +108,21 @@ Deterministic rules first (exact keys, derived arithmetic, bounded subset-sum, f
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulMalik1287&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=8B949E&icon_color=06B6D4&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMalik1287&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=8B949E&langs_count=8" alt="top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulMalik1287&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulMalik1287&theme=github" width="88%" alt="profile summary" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulMalik1287&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulMalik1287&theme=github" alt="languages by repo" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulMalik1287&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulMalik1287&theme=github" alt="languages by commit" />
+</picture>
 
 <br/>
 
@@ -117,7 +130,7 @@ Deterministic rules first (exact keys, derived arithmetic, bounded subset-sum, f
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMalik1287&hide_border=true&bg_color=00000000&color=7C3AED&line=06B6D4&point=7C3AED&area=true&area_color=7C3AED" width="95%" alt="activity graph" />
+<img src="https://ghchart.rshah.org/7C3AED/AbdulMalik1287" width="92%" alt="contribution graph" />
 
 </div>
 
