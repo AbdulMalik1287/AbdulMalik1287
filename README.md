@@ -40,7 +40,7 @@ Every number here comes from a run I can point you at, not an estimate.
 | Project | What it is | The measured part |
 | :--- | :--- | :--- |
 | **[LedgerStein](https://github.com/AbdulMalik1287/ledgerstein)** | Three-way payment reconciliation across ERP, Razorpay and bank: a 17-rule tiered matcher with an LLM adjudicator on the leftovers | **100% precision, 98.6% recall** on held-out data it was never tuned against, ~24k rows/sec, 56 tests |
-| **[Dossier](https://github.com/AbdulMalik1287/dossier)** | Portfolio-as-agent: a citation-grounded RAG system that answers recruiter questions about my own work | Cross-encoder reranking lifted **recall@5 from 0.87 to 0.95** on a hand-labelled eval set |
+| **[Dossier](https://github.com/AbdulMalik1287/dossier)** | Portfolio-as-agent: a citation-grounded RAG system that answers recruiter questions about my own work | Cross-encoder reranking lifted **recall@5 from 0.89 to 0.96** (recall@3 0.82 to 0.93) at 0.92 answer groundedness, on a hand-labelled eval set |
 | **[Hopper](https://github.com/AbdulMalik1287/hopper)** | Rust + Tauri 2 desktop app that safely auto-updates Minecraft Fabric mods | SHA-512-verified downloads, timestamped rollbacks, NSIS + MSI installers shipped |
 | **[NLP capstone](https://github.com/AbdulMalik1287/NLP)** | Cross-domain complaint understanding with multilingual encoders (XLM-R) | LODO fold protocol: trained and scored per held-out domain, not one flattering split |
 | **STMS v3** *(team repo)* | Traffic-intelligence rebuild for Manthan Yuva @ VNIT: detection, tracking, signal timing | Same clip, same 200 frames: **12.7 to 22.2 fps**, **13 to 32 vehicles** counted correctly |
