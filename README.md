@@ -29,7 +29,6 @@ The thing I care about most: **a system that reports its own accuracy is worth m
 focus      ->  RAG · LLM evaluation · CV deployment
 shipping   ->  GenMES modules @ FuMind.ai
 learning   ->  LoRA/PEFT fine-tuning, model serving
-mentoring  ->  6 first-years, CRISPR Club (AIRA) @ IIITN
 ```
 
 ---
